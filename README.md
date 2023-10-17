@@ -13,3 +13,4 @@
 
 *Gointerrupt @spddl <<veja aqui como usar.
 + Entre outros, confira no Desktop após a instalação.
+Baixe em >>> Releases na direita> Assets> .ISO
