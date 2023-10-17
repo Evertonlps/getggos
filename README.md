@@ -3,14 +3,16 @@
 
 + Opcional Pasta *útils
 
-*Notepad++.
+* Notepad++.
 
-*Toolkit Ghost Spectre - Instalável Opcionalmente
+* Toolkit Ghost Spectre - Instalável Opcionalmente
 
-*DriverEasy
+* DriverEasy
 
-*TweakSSD
+* TweakSSD
 
-*Gointerrupt @spddl <<veja aqui como usar.
+* @DNSCrypt configurado p/ instalação
+
+* Gointerrupt @spddl <<veja aqui como usar.
 + Entre outros, confira no Desktop após a instalação.
-Baixe em >>> Releases na direita> Assets> .ISO
+**Baixe** em >>> **Releases** na direita> **Assets>** .ISO**
